@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head-section{
+    background-color: black;
+    color: white;
+}
+nav ul{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom:20px;
+    right: 25px;
+    gap: 35px;
+    list-style-type: none;
+    
+    padding: 25px 10px 10px 0;
+    
+}
+.title ul{
+    list-style: none;
+padding-left: 25px;
+position: relative;
+top: 25px;
+}
+.main{
+    display: flex;
+}
+img{
+    height: 100vh;
+    width: 1000px;
+}
+.main p{
+    font-size: xx-large;
+}
+button{
+    padding: 15px 60px;
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    
+    
+}
